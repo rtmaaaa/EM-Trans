@@ -1,2 +1,2 @@
 # EM-Trans
-Our code will coming soon.
+Our code will come soon.
